@@ -51,6 +51,33 @@ Max Sales = MAX('BlinkIT Grocery Data'[Sales])<br>
 6. Min Item Sale<br>
 Min Sales = MIN('BlinkIT Grocery Data'[Sales])<br>
 
+**Key Business Insights**
+**Top Revenue Generators:**
+
+Fruits & Vegetables ($0.18M) and Snack Foods ($0.18M) are the highest-selling categories,<br> followed closely by Household Goods ($0.14M) and Frozen Foods ($0.12M).<br>
+
+Low-margin/low-demand items like Seafood ($0.01M) and Breakfast items ($0.02M) contribute minimal share.<br>
+
+**Outlet Type Dominance:**<br>
+
+Supermarket Type 1 accounts for the vast majority of total sales ($787.5K out of $1.20M),<br> driving over 65% of overall business volume.<br>
+
+Grocery Stores generate $151.9K with higher transaction volume relative to size,<br> while Supermarket Type 2 ($131.5K) and Type 3 ($130.7K) maintain steady baseline performance.<br>
+
+**Geographic Distribution** (City Tiers):<br>
+
+Tier 3 cities yield the highest overall sales revenue ($0.51M total across formats),<br> driven heavily by high product volume.<br>
+
+Tier 2 ($0.45M) and Tier 1 ($0.25M) show strong concentration of high-value items,<br> indicating higher average basket values in urban clusters.<br>
+
+**Customer Health Preferences**:<br>
+
+Products classified as Low Fat generate roughly $776K (64.6%) of sales compared to Regular products ($425K / 35.4%),<br> reflecting clear consumer preference for healthy/low-fat packaged goods.<br>
+
+**Historical Establishment Trend**:<br>
+
+Peak store expansion occurred around 2018–2019 (reaching $0.20M contribution),<br> after which sales stabilized at a healthy baseline of ~$0.13M per establishment cohort.<br>
+
 
 
 
