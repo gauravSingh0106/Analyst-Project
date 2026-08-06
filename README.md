@@ -51,8 +51,8 @@ Max Sales = MAX('BlinkIT Grocery Data'[Sales])<br>
 6. Min Item Sale<br>
 Min Sales = MIN('BlinkIT Grocery Data'[Sales])<br>
 
-**Key Business Insights**
-**Top Revenue Generators:**
+**Key Business Insights**<br>
+**Top Revenue Generators:** <br>
 
 Fruits & Vegetables ($0.18M) and Snack Foods ($0.18M) are the highest-selling categories,<br> followed closely by Household Goods ($0.14M) and Frozen Foods ($0.12M).<br>
 
