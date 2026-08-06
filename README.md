@@ -33,22 +33,22 @@ The goal was to transform raw transactional data into an interactive visual dash
 6. Does customer preference lean toward Low Fat vs. Regular fat content products across location tiers?<br>
 
 ### 3. Key DAX Measures Used
-// 1. Total Sales Revenue<br>
+ 1. Total Sales Revenue<br>
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])<br>
 
-// 2. Average Sales per Item<br>
+ 2. Average Sales per Item<br>
 Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])<br>
 
-// 3. Total Items Sold<br>
+ 3. Total Items Sold<br>
 No of Items = COUNT('BlinkIT Grocery Data'[Item Identifier])<br>
 
-// 4. Average Customer Rating<br>
+4. Average Customer Rating<br>
 Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])<br>
 
-// 5. Max Item Sale<br>
+ 5. Max Item Sale<br>
 Max Sales = MAX('BlinkIT Grocery Data'[Sales])<br>
 
-// 6. Min Item Sale<br>
+6. Min Item Sale<br>
 Min Sales = MIN('BlinkIT Grocery Data'[Sales])<br>
 
 
